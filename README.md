@@ -357,4 +357,8 @@ If you like this repository, feel free to:
 
 This repository represents my Python Development Internship journey in 2026 and highlights the projects, concepts, and practical skills I learned during my internship at Arch Technologies.
 
-These projects strengthened my confidence as a Python Developer and improv
+These projects strengthened my confidence as a Python Developer and improved my understanding of real-world software development practices.
+
+---
+
+# 💙 Thank You For Visiting My Repository!
