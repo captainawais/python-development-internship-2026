@@ -5,6 +5,8 @@
 ![Backend](https://img.shields.io/badge/Backend-Python-orange?style=for-the-badge)
 ![Projects](https://img.shields.io/badge/Projects-4%20Completed-success?style=for-the-badge)
 
+![Visitors](https://komarev.com/ghpvc/?username=captainawais&label=Repository+Views&color=0e75b6&style=for-the-badge)
+
 ---
  
 # 🏆 Python Development Internship Portfolio
